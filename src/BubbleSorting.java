@@ -15,7 +15,7 @@ public class BubbleSorting {
 	             }
 	 }
 
-	
+
 	 void printArray(int array[])
 	 {
 	     int n = array.length;
